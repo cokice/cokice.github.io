@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: cokice@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Howen的博客, Howen, 黄浩文, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://cokice.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
